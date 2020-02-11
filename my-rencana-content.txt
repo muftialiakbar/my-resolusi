@@ -3,10 +3,12 @@ rencana content
 - video java script
   - SS6
   - Framework javascript
-    - ANgular
-    - REact
-- PHP Framework
+    - vue
+    - React
+- Struktur data
+- PHP framework
   - Laravel
 - video prank
 - video sulap
 - vlog
+- phyton
