@@ -4,6 +4,7 @@ rencana content
   - SS6
   - Framework javascript
     - vue
+    - React
 - Struktur data
 - php framework
   - Laravel
