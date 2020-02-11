@@ -3,6 +3,7 @@ rencana content
 - video java script
   - SS6
   - Framework javascript
+- Struktur data
 - video prank
 - video sulap
 - vlog
